@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Scroll",
-    "slug": "Scroll",
+    "name": "ScrollSocial",
+    "slug": "ScrollSocial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "74fb92a8-1fe6-4388-9521-5db821f705d6"
+        "projectId": "4277b908-a13c-4b0f-97f3-2116e6a7a08c"
       }
     }
   }
